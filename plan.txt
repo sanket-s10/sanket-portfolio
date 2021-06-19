@@ -1,0 +1,21 @@
+Links 
+	Home 
+	Portfolio
+	Contact
+
+
+Home 
+	Title
+	About Me
+	Skills 
+	Portfolio
+	Follow me
+
+PortFolio
+	About
+	Skills
+	PortFolio
+
+Contact
+ 	Contact 
+	Remove Map
